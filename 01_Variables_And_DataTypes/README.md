@@ -38,3 +38,88 @@ Output :
    50
    5
 ```
+---
+
+### 🔹 File: `DataTypeDemo.java`
+
+**Description:** A Java program that demonstrates the use of different data types and prints their values.
+
+Output :
+
+```bash
+>> 8
+   a
+   true
+   10.5
+   25
+   30
+   123.0
+   25
+```
+---
+
+### 🔹 File: `AdditionDemo.java`
+
+**Description:** A Java program that adds two integers and prints their sum.
+
+Output :
+
+```bash
+>> 15
+```
+---
+
+### 🔹 File: `UserInput.java`
+
+**Description:** A Java program that demonstrates reading different types of user inputs and printing them.
+
+Output :
+
+```bash
+>> Hello World
+   Hello
+>> Hello World
+   Hello World
+>> 3
+   3
+>> 3
+   3.0
+```
+---
+
+### 🔹 File: `InputAddition.java`
+
+**Description:** A Java program that takes two integers as input from the user, adds them, and displays the sum.
+
+Output :
+
+```bash
+>> 10
+>> 20
+   30
+```
+---
+
+### 🔹 File: `ProductDemo.java`
+
+**Description:** A Java program that reads two integers from the user, calculates their product, and prints the result.
+
+Output :
+
+```bash
+>> 10
+>> 20
+   200
+```
+---
+
+### 🔹 File: `CircleArea.java`
+
+**Description:** A Java program that calculates and prints the area of a circle using the radius entered by the user.
+
+Output :
+
+```bash
+>> 5
+   28.26
+```
