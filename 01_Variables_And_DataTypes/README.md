@@ -123,3 +123,46 @@ Output :
 >> 5
    28.26
 ```
+---
+
+### 🔹 File: `TypeConversion.java`
+
+**Description:** A Java program that demonstrates implicit type conversion (widening conversion) from smaller data types to larger ones.
+
+Output :
+
+```bash
+>> 16
+   16.0
+   25
+```
+---
+
+### 🔹 File: `TypeCasting.java`
+
+**Description:** A Java program that demonstrates explicit type casting (narrowing conversion) from a float to an int.
+
+Output :
+
+```bash
+>> 25
+```
+---
+
+### 🔹 File: `TypePromotion.java`
+
+**Description:** A Java program that demonstrates type promotion in expressions involving different data types.
+
+Output :
+
+```bash
+>> 98
+   97
+   1
+
+   -127
+
+   85.25
+
+   10
+```
