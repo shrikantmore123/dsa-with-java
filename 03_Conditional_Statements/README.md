@@ -66,3 +66,50 @@ Output :
 ```bash
 >> 6
 ```
+---
+
+### 🔹 File: `ternaryOperator.java`
+
+**Description:** A Java program that checks whether a given number is even or odd using the ternary operator.
+
+Output :
+
+```bash
+>> 4 is even
+```
+---
+
+### 🔹 File: `ternaryResult.java`
+
+**Description:** A Java program that determines if a student has passed or failed based on marks using the ternary operator.
+
+Output :
+
+```bash
+>> You are pass
+```
+---
+
+### 🔹 File: `switchDemo.java`
+
+**Description:** A Java program that displays the word form of a number using a switch statement.
+
+Output :
+
+```bash
+>> Two
+```
+---
+
+### 🔹 File: `switchCalculator.java`
+
+**Description:** A Java program that performs basic arithmetic operations (+, -, *, /, %) on two numbers using a switch statement.
+
+Output :
+
+```bash
+>> Enter 1st Num: 10
+>> Enter 2nd Num: 5
+>> Enter Operator (+, -, *, /, %) : *
+   Result : 50
+```
