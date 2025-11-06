@@ -28,3 +28,9 @@
 ### 🔹 File: `Patterns - Basic`
 
 **Description:** Java programs for printing basic patterns (stars, numbers, and alphabets) using nested loops to enhance logic-building and problem-solving skills.
+
+---
+
+### 🔹 File: `Functions and Methods`
+
+**Description:** Java programs illustrating function creation, function calling, parameter passing, return values, method overloading, and modular program structure.
