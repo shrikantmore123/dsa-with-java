@@ -34,3 +34,9 @@
 ### 🔹 File: `Functions and Methods`
 
 **Description:** Java programs illustrating function creation, function calling, parameter passing, return values, method overloading, and modular program structure.
+
+---
+
+### 🔹 File: `Patterns - Advanced`
+
+**Description:** Description: Java programs for printing complex star and number patterns such as butterfly, diamond, rhombus, Floyd’s triangle, and other advanced geometric designs using nested loops and logical conditions.
