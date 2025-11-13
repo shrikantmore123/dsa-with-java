@@ -28,3 +28,126 @@ Output :
 >> 98 99 100
 ```
 ---
+
+### 🔹 File: `linearSeach.java`
+
+**Description:** A Java program that performs linear search on an array to find the index of a given key.
+
+Output :
+
+```bash
+>> Key found at index 4
+```
+---
+
+### 🔹 File: `largestNumber.java`
+
+**Description:** A Java program that finds and returns the largest number in an array while also printing the smallest element.
+
+Output :
+
+```bash
+>> Smallest value is 2
+   Largest num is 16
+```
+---
+
+### 🔹 File: `binarySearch.java`
+
+**Description:** A Java program that performs binary search on a sorted array to efficiently find the index of a given key.
+
+Output :
+
+```bash
+>> Key found at index 4
+```
+---
+
+### 🔹 File: `reverseArray.java`
+
+**Description:** A Java program that reverses an array in-place by swapping elements from both ends.
+
+Output :
+
+```bash
+>> After Reversing : 
+   2 4 6 8 10 12 14 16 
+   
+   After Reversing : 
+   16 14 12 10 8 6 4 2 
+```
+---
+
+### 🔹 File: `pairsInArray.java`
+
+**Description:** A Java program that prints all possible unique pairs from an array and counts the total number of pairs.
+
+Output :
+
+```bash
+>> (2,4)(2,6)(2,8)(2,10)(2,12)(2,14)(2,16)
+   (4,6)(4,8)(4,10)(4,12)(4,14)(4,16)
+   (6,8)(6,10)(6,12)(6,14)(6,16)
+   (8,10)(8,12)(8,14)(8,16)
+   (10,12)(10,14)(10,16)
+   (12,14)(12,16)
+   (14,16)
+
+   Total Pairs: 28
+```
+---
+
+### 🔹 File: `printSubarrays.java`
+
+**Description:** A Java program that generates and prints all possible subarrays of an array while counting the total subarrays.
+
+Output :
+
+```bash
+>> 2 
+   2 4 
+   2 4 6 
+   2 4 6 8 
+   2 4 6 8 10 
+   2 4 6 8 10 12 
+   2 4 6 8 10 12 14 
+   2 4 6 8 10 12 14 16 
+
+   4 
+   4 6
+   4 6 8
+   4 6 8 10
+   4 6 8 10 12
+   4 6 8 10 12 14
+   4 6 8 10 12 14 16
+
+   6
+   6 8
+   6 8 10
+   6 8 10 12
+   6 8 10 12 14
+   6 8 10 12 14 16
+
+   8
+   8 10
+   8 10 12
+   8 10 12 14
+   8 10 12 14 16
+
+   10
+   10 12
+   10 12 14
+   10 12 14 16
+
+   12
+   12 14
+   12 14 16
+
+   14
+   14 16
+
+   16
+   
+   Total Subarrays: 36
+```
+---
