@@ -151,3 +151,43 @@ Output :
    Total Subarrays: 36
 ```
 ---
+
+### 🔹 File: `maxSubarraySum1.java`
+
+**Description:** A Java program that finds the maximum subarray sum using the brute-force approach by checking all subarrays (O(n³)).
+
+Output :
+
+```bash
+>> 2 6 12 20 30 42 56 72 
+   4 10 18 28 40 54 70 
+   6 14 24 36 50 66 
+   8 18 30 44 60 
+   10 22 36 52 
+   12 26 42 
+   14 30 
+   16 
+   Maximum Sum of Subarray: 72
+```
+---
+
+### 🔹 File: `maxSubarraySum2.java`
+
+**Description:** A Java program that computes the maximum subarray sum using a prefix-sum array to optimize subarray sum calculations (O(n²)).
+
+Output :
+
+```bash
+>> Maximum Sum of Subarray: 72
+```
+---
+
+### 🔹 File: `maxSubarraySum3.java`
+
+**Description:** A Java program that applies Kadane’s Algorithm to efficiently find the maximum subarray sum in linear time (O(n)).
+
+Output :
+
+```bash
+>> Maximum Sum of Subarray: 7
+```
