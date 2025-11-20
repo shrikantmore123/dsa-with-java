@@ -191,3 +191,26 @@ Output :
 ```bash
 >> Maximum Sum of Subarray: 7
 ```
+---
+
+### 🔹 File: `trappingRainwater.java`
+
+**Description:** A Java program that calculates how much rainwater can be trapped between bars using left-max and right-max boundary arrays.
+
+Output :
+
+```bash
+>> Total Trapped Water: 11
+```
+---
+
+### 🔹 File: `buyAndSellStocks.java`
+
+**Description:** A Java program that computes the maximum profit from a single buy–sell stock transaction by tracking the minimum buying price.
+
+Output :
+
+```bash
+>> Maximum Profit : 5
+```
+---
