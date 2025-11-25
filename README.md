@@ -1,42 +1,53 @@
 # DSA WITH JAVA
 
-### 🔹 File: `Variables and DataTypes`
+### 🔹`Variables and DataTypes`
 
 **Description:** Java programs demonstrating the use of variables and different data types in Java.
 
 ---
 
-### 🔹 File: `Operators`
+### 🔹`Operators`
 
 **Description:** Java programs showcasing various types of operators and their applications in Java.
 
 ---
 
-
-### 🔹 File: `Conditional Statements`
+### 🔹`Conditional Statements`
 
 **Description:** Java programs illustrating the use of conditional statements such as if, if-else, else-if, and switch for decision-making in programs.
 
 ---
 
-### 🔹 File: `Loops`
+### 🔹`Loops`
 
 **Description:** Java programs demonstrating different looping constructs like for, while, and do-while loops to perform repetitive tasks effectively.
 
 ---
 
-### 🔹 File: `Patterns - Basic`
+### 🔹`Patterns - Basic`
 
 **Description:** Java programs for printing basic patterns (stars, numbers, and alphabets) using nested loops to enhance logic-building and problem-solving skills.
 
 ---
 
-### 🔹 File: `Functions and Methods`
+### 🔹`Functions and Methods`
 
 **Description:** Java programs illustrating function creation, function calling, parameter passing, return values, method overloading, and modular program structure.
 
 ---
 
-### 🔹 File: `Patterns - Advanced`
+### 🔹`Patterns - Advanced`
 
 **Description:** Description: Java programs for printing complex star and number patterns such as butterfly, diamond, rhombus, Floyd’s triangle, and other advanced geometric designs using nested loops and logical conditions.
+
+---
+
+### 🔹`Arrays`
+
+**Description:** Java programs demonstrating array fundamentals including declaration, input handling, updating elements, passing arrays to functions, searching techniques, reversing arrays, generating pairs, and printing subarrays.
+
+---
+
+### 🔹`Basic Sorting Algorithms`
+
+**Description:** Description: Java programs implementing different sorting techniques such as Bubble Sort, Selection Sort, Insertion Sort, Counting Sort, and Java’s inbuilt sorting methods.
