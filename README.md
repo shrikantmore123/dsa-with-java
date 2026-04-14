@@ -38,7 +38,7 @@
 
 ### 🔹`Patterns - Advanced`
 
-**Description:** Description: Java programs for printing complex star and number patterns such as butterfly, diamond, rhombus, Floyd’s triangle, and other advanced geometric designs using nested loops and logical conditions.
+**Description:** Java programs for printing complex star and number patterns such as butterfly, diamond, rhombus, Floyd’s triangle, and other advanced geometric designs using nested loops and logical conditions.
 
 ---
 
@@ -50,4 +50,10 @@
 
 ### 🔹`Basic Sorting Algorithms`
 
-**Description:** Description: Java programs implementing different sorting techniques such as Bubble Sort, Selection Sort, Insertion Sort, Counting Sort, and Java’s inbuilt sorting methods.
+**Description:** Java programs implementing different sorting techniques such as Bubble Sort, Selection Sort, Insertion Sort, Counting Sort, and Java’s inbuilt sorting methods.
+
+---
+
+### 🔹`2D Arrays`
+
+**Description:** Java programs demonstrating 2D array operations including matrix input/output, diagonal sum, searching elements, spiral traversal, and optimized search in sorted matrices.
