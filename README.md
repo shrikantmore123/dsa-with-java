@@ -57,3 +57,9 @@
 ### 🔹`2D Arrays`
 
 **Description:** Java programs demonstrating 2D array operations including matrix input/output, diagonal sum, searching elements, spiral traversal, and optimized search in sorted matrices.
+
+---
+
+### 🔹`Strings`
+
+**Description:** Java programs demonstrating string operations such as comparison, concatenation, substring extraction, palindrome checking, string compression, use of StringBuilder, and basic string manipulation techniques.
